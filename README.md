@@ -1,3 +1,4 @@
+
 # simplechatbot
 print("Hello! My name is Aid.")
 print("I was created in 2020.")
@@ -24,7 +25,6 @@ while counter <= number:
     counter += 1
 determinant = True
 while determinant:
-
     print("Let's test your programming knowledge.")
     print("Why do we use methods?")
     print("1. To repeat a statement multiple times.")
